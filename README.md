@@ -5,7 +5,7 @@
 - to solve under-fetching
 
 ## Things I learned!
-# resolvers
-# schema
-# GraphQL Playground
+### resolvers
+### schema
+### GraphQL Playground
 (something like Postman)
