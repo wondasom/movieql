@@ -4,5 +4,8 @@
 - to solve over-fetching
 - to solve under-fetching
 
-# resolvers?
-# schema?
+## Things I learned!
+# resolvers
+# schema
+# GraphQL Playground
+(something like Postman)
